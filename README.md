@@ -1,3 +1,6 @@
+FORKED BY https://thebitcoinpuzzle.com
+A Beginner’s Guide to Mastering The Bitcoin Puzzle
+
 # Rotor-Cuda 
 
 This is a modified version of KeyHunt v1.7 by [kanhavishva](https://github.com/kanhavishva/KeyHunt-Cuda).
